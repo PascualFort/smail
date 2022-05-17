@@ -1,7 +1,7 @@
 # smail
 A simple app to send emails
 
-# Steps to reproduce:
+# Steps to run it:
 
 1. Get your API key at https://dev.mailjet.com/
 2. Fill the info at src/components/MailPost
