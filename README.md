@@ -9,6 +9,10 @@ A simple app to send emails
 
 # Content
 You can migrate the files to your project. The only things needed are:
+
 -The src folder
+
 -The App.js file
--Run npm install axios
+
+-Run $npm install axios
+
